@@ -1,0 +1,17 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "1936FA7112454062E90197368A17D791102B85A523353F2A9897B63E40F7776D",
+    "Path": "data/countries.json"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "AFA014DF7CDB494961DA3DBA6010A49EB148753AAC5CAEFF13CB573632633AE5",
+    "Path": "data/metadata_index.jsonl"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "9B06B0E1DF981B24B0F99EF7DA2C80831FA810C3E5270C41F5B7767EADA459C1",
+    "Path": "data/structured_country_notes.jsonl"
+  }
+]

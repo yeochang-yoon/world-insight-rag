@@ -1,0 +1,14 @@
+{
+  "scanned_files": 53,
+  "credential_matches": 0,
+  "leaked_file_names": [],
+  "original_three_data_hashes_unchanged": true,
+  "missing_counts": {
+    "capital_en": 19,
+    "region_en": 19,
+    "languages": 18,
+    "currencies": 17,
+    "area_km2": 25
+  },
+  "country_self_articles_complete_for_collected_items": true
+}
