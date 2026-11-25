@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# Preserve original dataset bytes and recorded SHA256 hashes on every checkout.
+data/countries.json -text
+data/countries.csv -text whitespace=cr-at-eol
+data/metadata_index.jsonl -text
+data/structured_country_notes.jsonl -text
+
+*.jpg binary
+*.png binary

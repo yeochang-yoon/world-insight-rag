@@ -1,0 +1,33 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+storage/
+data/wiki_cache/
+logs/
+tmp/
+
+# Local credentials, editor settings and generated archives
+.streamlit/secrets.toml
+.agents/
+.codex/
+.aws/
+.idea/
+.vscode/
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.zip
+*.sqlite
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
+
+# Original confidential assignment text stays on the local computer.
+docs/ORIGINAL_REQUIREMENTS.txt

@@ -1,0 +1,316 @@
+{
+  "reports": [
+    {
+      "item_id": "GHA",
+      "queries": [
+        "가나",
+        "가나 지리",
+        "가나 역사"
+      ],
+      "document_ids": [
+        "GHA:wikipedia:11393",
+        "GHA:wikipedia:4163538",
+        "GHA:wikipedia:3226235"
+      ],
+      "selected": [
+        "가나",
+        "가나의 지리",
+        "가나의 역사"
+      ],
+      "deferred": [
+        "히라가나",
+        "가타카나",
+        "가나 (문자)",
+        "일본어 한자",
+        "박정희",
+        "아크라",
+        "코트디부아르",
+        "역사",
+        "일본의 역사",
+        "역사적 가나 표기법"
+      ],
+      "cache_hit": true,
+      "api_calls": 10,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GAB",
+      "queries": [
+        "가봉",
+        "가봉 지리",
+        "가봉 역사"
+      ],
+      "document_ids": [
+        "GAB:wikipedia:95907",
+        "GAB:wikipedia:3216551"
+      ],
+      "selected": [
+        "가봉",
+        "가봉의 역사"
+      ],
+      "deferred": [
+        "리브르빌",
+        "피에르에므리크 오바메양",
+        "가봉 대통령",
+        "가봉 요리",
+        "영연방",
+        "상투메 프린시페",
+        "카메룬",
+        "카르타고",
+        "알베르트 슈바이처"
+      ],
+      "cache_hit": true,
+      "api_calls": 19,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GUY",
+      "queries": [
+        "가이아나",
+        "가이아나 지리",
+        "가이아나 역사"
+      ],
+      "document_ids": [
+        "GUY:wikipedia:95905",
+        "GUY:wikipedia:3229809"
+      ],
+      "selected": [
+        "가이아나",
+        "가이아나의 역사"
+      ],
+      "deferred": [
+        "수리남",
+        "남아메리카",
+        "카리브해",
+        "가이아",
+        "베네수엘라"
+      ],
+      "cache_hit": true,
+      "api_calls": 28,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GMB",
+      "queries": [
+        "감비아",
+        "감비아 지리",
+        "감비아 역사"
+      ],
+      "document_ids": [
+        "GMB:wikipedia:95904",
+        "GMB:wikipedia:3240476"
+      ],
+      "selected": [
+        "감비아",
+        "감비아의 역사"
+      ],
+      "deferred": [
+        "감비아의 국기",
+        "감비아 대통령",
+        "감비아 요리",
+        "아프리카",
+        "잠비아",
+        "UTC±00:00",
+        "사하라 이남 아프리카",
+        "감비아의 국장"
+      ],
+      "cache_hit": true,
+      "api_calls": 37,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GGY",
+      "queries": [
+        "건지",
+        "건지의 지리",
+        "건지의 역사"
+      ],
+      "document_ids": [
+        "GGY:wikipedia:3649281",
+        "GGY:wikipedia:41493",
+        "GGY:wikipedia:3481944"
+      ],
+      "selected": [
+        "건지 관할구",
+        "건지섬",
+        "건지섬의 역사"
+      ],
+      "deferred": [
+        "가비엔제이",
+        "건지섬의 기",
+        "샘 김",
+        "유럽",
+        "북유럽",
+        "전두환",
+        "영국의 역사",
+        "기황후 (드라마)",
+        "건지군"
+      ],
+      "cache_hit": true,
+      "api_calls": 47,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GLP",
+      "queries": [
+        "과들루프",
+        "과들루프 지리",
+        "과들루프 역사"
+      ],
+      "document_ids": [
+        "GLP:wikipedia:41309"
+      ],
+      "selected": [
+        "과들루프"
+      ],
+      "deferred": [
+        "바스테르 (과들루프)",
+        "과들루프 축구 국가대표팀",
+        "과들루프 크리올",
+        "과들루프큰눈박쥐",
+        "앤티가 바부다",
+        "카리브 제도",
+        "서인도 제도",
+        "소앤틸리스 제도",
+        "5월 27일",
+        "프랑스 혁명"
+      ],
+      "cache_hit": true,
+      "api_calls": 55,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GTM",
+      "queries": [
+        "과테말라",
+        "과테말라의 지리",
+        "과테말라의 역사"
+      ],
+      "document_ids": [
+        "GTM:wikipedia:73083"
+      ],
+      "selected": [
+        "과테말라"
+      ],
+      "deferred": [
+        "과테말라시티",
+        "체 게바라",
+        "중앙아메리카",
+        "과테말라 요리",
+        "부산광역시",
+        "엘살바도르",
+        "온두라스만",
+        "과테말라 국가연대전국국민회의연합당",
+        "하코보 아르벤스"
+      ],
+      "cache_hit": true,
+      "api_calls": 63,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GUM",
+      "queries": [
+        "괌",
+        "괌의 지리",
+        "괌의 역사"
+      ],
+      "document_ids": [
+        "GUM:wikipedia:45068"
+      ],
+      "selected": [
+        "괌"
+      ],
+      "deferred": [
+        "대한항공 801편 추락 사고",
+        "앤토니오 B. 원 팻 국제공항",
+        "사이판섬",
+        "2026년 태풍",
+        "오세아니아",
+        "ISO 3166-2:GU",
+        "페나호",
+        "스페인령 동인도",
+        "미국의 중간선거"
+      ],
+      "cache_hit": true,
+      "api_calls": 71,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GRD",
+      "queries": [
+        "그레나다",
+        "그레나다 지리",
+        "그레나다 역사"
+      ],
+      "document_ids": [
+        "GRD:wikipedia:95903",
+        "GRD:wikipedia:39576"
+      ],
+      "selected": [
+        "그레나다",
+        "그레나다 침공"
+      ],
+      "deferred": [
+        "북아메리카",
+        "그레나다의 국기",
+        "그레나다 요리",
+        "세인트빈센트 그레나딘",
+        "카리브 제도",
+        "세인트조지스 (그레나다)",
+        "그레나다의 구",
+        "엘리자베스 2세",
+        "입헌군주제",
+        "추수감사절"
+      ],
+      "cache_hit": true,
+      "api_calls": 80,
+      "api_cache_hits": 0,
+      "status": "passed"
+    },
+    {
+      "item_id": "GRC",
+      "queries": [
+        "그리스",
+        "그리스의 지리",
+        "그리스의 역사"
+      ],
+      "document_ids": [
+        "GRC:wikipedia:1458",
+        "GRC:wikipedia:324730",
+        "GRC:wikipedia:323874"
+      ],
+      "selected": [
+        "그리스",
+        "그리스의 지리",
+        "그리스의 역사"
+      ],
+      "deferred": [
+        "올림포스 12신",
+        "로마자",
+        "발칸반도",
+        "키프로스",
+        "지리학",
+        "트라키아",
+        "고대 그리스",
+        "마케도니아 왕국",
+        "근대 그리스의 역사"
+      ],
+      "cache_hit": true,
+      "api_calls": 90,
+      "api_cache_hits": 0,
+      "status": "passed"
+    }
+  ],
+  "actual_documents": 20,
+  "api_calls": 0,
+  "cache_hits": 0,
+  "elapsed_seconds": 1.882
+}

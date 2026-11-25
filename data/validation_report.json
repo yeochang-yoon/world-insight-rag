@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-10-21",
+  "domain": "세계 국가·지역 지리 지식 AI",
+  "total_items": 249,
+  "countryinfo_matched_items": 232,
+  "items_missing_countryinfo": 17,
+  "items_with_capital": 230,
+  "items_with_region": 230,
+  "items_with_languages": 231,
+  "items_with_currency": 232,
+  "items_with_korean_name": 249,
+  "region_counts": {
+    "Africa": 59,
+    "Americas": 48,
+    "Europe": 48,
+    "Oceania": 27,
+    "unknown": 19,
+    "Asia": 48
+  },
+  "source_package_versions": {
+    "pycountry": "24.6.1",
+    "babel": "2.18.0",
+    "countryinfo": "0.1.2 (environment installed package)"
+  },
+  "external_wikipedia_articles_downloaded": 0,
+  "notes": "CountryInfo geographic values may be outdated; population deliberately excluded. Wikipedia article URLs are search links until verified by collect_wikipedia.py."
+}
